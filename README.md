@@ -1,6 +1,8 @@
 ## 📌 Sobre Mí  
 👋 ¡Hola! Soy **Daniel Alejandro Troche Valdivia**, técnico en Administración de Sistemas Informáticos con experiencia en soporte técnico, gestión de servidores y redes. Apasionado por la automatización, la seguridad informática y la implementación de soluciones eficientes en entornos Linux y Windows Server.  
 
+<img src="https://github.com/dantrov/tfg/blob/main/img/portada.jpg" alt="imagen" width="400"/>g)
+
 ## 🎓 Formación Académica  
 - **Grado Superior en Administración de Sistemas Informáticos en Red** (2024 - 2025) – UAX  
 - **Licenciatura en Ciencias de la Computación** (No terminada) – Universidad Central Marta Abreu de las Villas  
